@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/header-karma-gpt.png" width="220" alt="KARMA GPT Logo">
+  <img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/header-karma-gpt.png" width="220" alt="download(1).jpeg">
 </p>
 
 <h1 align="center">🙏 KARMA GPT – AI Career Counselor with Spiritual Wisdom 🙏</h1>
@@ -18,7 +18,7 @@
 It’s designed for freshers, job seekers, and anyone facing career stress, providing holistic solutions—technical **and** spiritual.
 
 <div align="center">
-  <img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/karma-gpt-ui-preview.png" width="600" alt="KARMA GPT UI Preview">
+  <img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/karma-gpt-ui-preview.png" width="600" alt="Screenshot 2025-09-22 135323">
 </div>
 
 ---
@@ -80,7 +80,7 @@ const analysis = await karmaAI.analyzeCareerProblem(problemText, userProfile);
 
 ## 🎨 UI Preview
 
-<img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/karma-gpt-ui-preview.png" width="600" alt="UI Preview">
+<img src="https://github.com/Sakshi983-cmd/PREMA-KARMAGPT/assets/karma-gpt-ui-preview.png" width="600" alt="Ghibli Trend Shri Premanand Ji Mahraj.jpeg ">
 
 ---
 
