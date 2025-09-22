@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sakshi983-cmd/PREMA-KARMAGPT/main/download%20(1).jpeg" width="220" alt="header image">
+  <img src="assets/download (1).jpeg" width="220" alt="header image">
 </p>
 
 <h1 align="center">🙏 KARMA GPT – AI Career Counselor with Spiritual Wisdom 🙏</h1>
@@ -18,7 +18,7 @@
 It’s designed for freshers, job seekers, and anyone facing career stress, providing holistic solutions—technical **and** spiritual.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sakshi983-cmd/PREMA-KARMAGPT/main/Screenshot%202025-09-22%20135323.png" width="600" alt="UI Preview">
+  <img src="assets/Screenshot 2025-09-22 135323.png" width="600" alt="UI Preview">
 </div>
 
 ---
