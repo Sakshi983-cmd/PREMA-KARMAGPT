@@ -16,6 +16,9 @@
 
 **KARMA GPT** is an innovative career guidance platform that merges cutting-edge AI/ML (TensorFlow.js, NLP, sentiment analysis) with the timeless teachings of Premanand Maharaj Ji (Bhajan Marg, Vrindavan).  
 It’s designed for freshers, job seekers, and anyone facing career stress, providing holistic solutions—technical **and** spiritual.
+💡 **Idea & App Development:** Conceptualized and built using [Claude.AI](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e), an advanced AI tool for brainstorming, research, and prototyping.
+
+🌐 **Try the App Online:** [KARMA GPT Demo](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e)
 
 <div align="center">
   <img src="assets/Screenshot 2025-09-22 135323.png" width="600" alt="UI Preview">
@@ -46,9 +49,5 @@ graph TD
     E --> F[Spiritual guidance + action plan delivered]
 
 
-
-💡 **Idea & App Development:** Conceptualized and built using [Claude.AI](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e), an advanced AI tool for brainstorming, research, and prototyping.
-
-🌐 **Try the App Online:** [KARMA GPT Demo](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e)
 
 
