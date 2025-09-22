@@ -44,4 +44,8 @@ graph TD
     C --> D[Sentiment AI detects emotion]
     D --> E[Maharaj Ji’s relevant satsangs recommended]
     E --> F[Spiritual guidance + action plan delivered]
+💡 **Idea & App Development:** Conceptualized and built using [Claude.AI](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e), an advanced AI tool for brainstorming, research, and prototyping.
+
+🌐 **Try the App Online:** [KARMA GPT Demo](https://claude.ai/public/artifacts/53575124-feca-4cc5-a94f-bcf647c4673e)
+
 
